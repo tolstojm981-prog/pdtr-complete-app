@@ -292,22 +292,6 @@ const learningCards = [
         hint: 'Проверяются при гастрите'
     },
 
-    // PILUS
-    {
-        category: 'PILUS диагностика',
-        question: 'Что означает аббревиатура PILUS?',
-        answer: 'Piriformis, Iliacus, Latissimus, Upper Trapezius, Sternocleidomastoid',
-        details: 'При флексии поясничного отдела на 35° с естественным давлением на верхушку крестца стулом, кушеткой появляется гипотония этих мышц.',
-        hint: 'Это нормальный ответ!!!'
-    },
-    {
-        category: 'PILUS диагностика',
-        question: 'Что проверяется при PILUS тесте?',
-        answer: 'Правой Piriformis, Правой Iliacus, Левой Latissimus, Левой Upper Trapezius, Правой Sternocleidomastoid',
-        details: 'Так же возможно использование клина помещённого под крестец без флексии поясничного отдела.',
-        hint: 'Флексия 35 градусов'
-    },
-
     // ПИЩЕВАЯ НЕПЕРЕНОСИМОСТЬ
     {
         category: 'Пищевая непереносимость',

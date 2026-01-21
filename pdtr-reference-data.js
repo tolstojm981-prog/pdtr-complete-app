@@ -412,32 +412,6 @@ const referenceData = {
         ]
     },
     
-    pilus: {
-        title: 'PILUS диагностика',
-        sections: [
-            {
-                name: 'Тестирование PILUS',
-                content: `
-                    <h3>Что такое PILUS?</h3>
-                    <p>При флексии поясничного отдела на 35°, с естественным давлением на верхушку крестца стулом, кушеткой. Так-же возможно использование клина помещенного под крестец, без флексии поясничного отдела.</p>
-                    
-                    <h3>Появляется гипотония:</h3>
-                    <ul>
-                        <li><strong>Правой</strong> Piriformis</li>
-                        <li><strong>Правой</strong> Iliacus</li>
-                        <li><strong>Левой</strong> Latissimus</li>
-                        <li><strong>Левой</strong> Upper Trapezius</li>
-                        <li><strong>Правой</strong> Sternocleidomastoid</li>
-                    </ul>
-                    
-                    <div style="background: #fee2e2; padding: 20px; border-radius: 12px; margin: 20px 0;">
-                        <p style="font-weight: bold; font-size: 18px;">Это нормальный ответ!!!</p>
-                    </div>
-                `
-            }
-        ]
-    },
-    
     diagnostic: {
         title: 'Диагностические алгоритмы',
         sections: [
